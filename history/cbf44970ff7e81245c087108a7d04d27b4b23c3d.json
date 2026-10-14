@@ -1,0 +1,92 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814511,
+    "hash": "01a60f157cd208fb08ff2e3f4089a8e18b69916e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1737722350,
+    "hash": "053f07d98a41eb7692ac84755947a4b03bafa0a1"
+  },
+  "README.md": {
+    "size": 2690,
+    "time": 1791961419,
+    "hash": "cbf44970ff7e81245c087108a7d04d27b4b23c3d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737722350,
+    "hash": "053f07d98a41eb7692ac84755947a4b03bafa0a1"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737722350,
+    "hash": "053f07d98a41eb7692ac84755947a4b03bafa0a1"
+  },
+  "exams/2017矩阵分析-严质彬-参考答案.pdf": {
+    "size": 236508,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "exams/2017矩阵分析-严质彬-试卷.docx": {
+    "size": 82916,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "exams/2018矩阵分析-严质彬-参考答案.pdf": {
+    "size": 209107,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "exams/2018矩阵分析-严质彬-试卷.docx": {
+    "size": 73930,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "exams/2022矩阵分析-严质彬-参考答案.pdf": {
+    "size": 95788,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "exams/2025矩阵分析试题-朱萍萍老师.pdf": {
+    "size": 103721,
+    "time": 1764530252,
+    "hash": "2a0bdcc2913a4a4c00e87e361aab578ce9c7ba35"
+  },
+  "exams/2025矩阵分析试题-樊一民老师.pdf": {
+    "size": 102304,
+    "time": 1764530252,
+    "hash": "2a0bdcc2913a4a4c00e87e361aab578ce9c7ba35"
+  },
+  "exams/2025矩阵分析试题-牛牧青老师.pdf": {
+    "size": 119322,
+    "time": 1764530252,
+    "hash": "2a0bdcc2913a4a4c00e87e361aab578ce9c7ba35"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737722350,
+    "hash": "053f07d98a41eb7692ac84755947a4b03bafa0a1"
+  },
+  "notes/2022-矩阵分析-严质彬-笔记.pdf": {
+    "size": 4433112,
+    "time": 1763834949,
+    "hash": "519430618a7339816337a0928d2f168b6a7577c7"
+  },
+  "notes/定理证明补充.pdf": {
+    "size": 1318474,
+    "time": 1763095599,
+    "hash": "15d354dce6d0589d93ded8056dac01aedf4ce27f"
+  },
+  "readme.toml": {
+    "size": 2728,
+    "time": 1773428036,
+    "hash": "dcf23b1633f1676549c4a172d256aea59f172f06"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737722350,
+    "hash": "053f07d98a41eb7692ac84755947a4b03bafa0a1"
+  }
+}
